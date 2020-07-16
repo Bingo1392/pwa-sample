@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pwa-sample/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pwa-sample/static/js/main.affe3ce3.chunk.js",
+    "main.js.map": "/pwa-sample/static/js/main.affe3ce3.chunk.js.map",
+    "runtime-main.js": "/pwa-sample/static/js/runtime-main.df716211.js",
+    "runtime-main.js.map": "/pwa-sample/static/js/runtime-main.df716211.js.map",
+    "static/js/2.d30010a3.chunk.js": "/pwa-sample/static/js/2.d30010a3.chunk.js",
+    "static/js/2.d30010a3.chunk.js.map": "/pwa-sample/static/js/2.d30010a3.chunk.js.map",
+    "index.html": "/pwa-sample/index.html",
+    "precache-manifest.4cbd028625c499ba077bedceea820289.js": "/pwa-sample/precache-manifest.4cbd028625c499ba077bedceea820289.js",
+    "service-worker.js": "/pwa-sample/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pwa-sample/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d30010a3.chunk.js.LICENSE.txt": "/pwa-sample/static/js/2.d30010a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df716211.js",
+    "static/js/2.d30010a3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.affe3ce3.chunk.js"
+  ]
+}
